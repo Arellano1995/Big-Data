@@ -1,5 +1,5 @@
 def examen() = {
-var arreglo0 = Array( Array(1,2,3), Array(4,5,6), Array(7,8,9) )
+var arreglo0 = Array( Array(1,2,4), Array(4,5,6), Array(10,8,-12) )
 val y =arreglo0(0)(0)+arreglo0(1)(1)+arreglo0(2)(2)
 val x =arreglo0(0)(2)+arreglo0(1)(1)+arreglo0(2)(0)
 
