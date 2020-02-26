@@ -6,4 +6,6 @@ Develop a function in a scrip with the programming language Scala. This must ret
 
 ***
 
-![Photo taken to the exam](https://raw.githubusercontent.com/Arellano1995/Big-Data/unidad_1/Unidad1/Evaluation/Examen_Arellano.jpg)
+![Photo taken to the exam](https://raw.githubusercontent.com/Arellano1995/Big-Data/unidad_1/Evaluation/Examen_Arellano.jpg)
+
+![Photo taken to the exam](https://raw.githubusercontent.com/Arellano1995/Big-Data/unidad_1/Evaluation/IMG_20200225_172125170.jpg)
