@@ -29,3 +29,24 @@ df.select(min("Volume")).show() // Choose the volume column min
 df.select(max("Volume")).show() // Choose the volume column max
 //10
 val df2 = df.withColumn("Year", year(df("Date"))) // create the year column from the date column
+
+// 11 Create the month column from the date column
+val df3 = df.withColumn("Month", month(df("Date")))
+// 12 create the day column from the month and date column
+val df3 = df.withColumn("Day", dayofmonth(df("Date")))
+// 13 Create the day column from the year column
+al df3 = df.withColumn("Day", dayofyear(df("Date")))
+// 14 the correlation between the High and Volume column returns
+df.select(corr($"High", $"Volume")).show() 
+// 15 Take 1 column from the column
+df.select($"High").take(1)
+// 16 Split the selected column
+df.select("High").repartition().show()
+// 17 Draw the High column
+df.sort($"High".asc).show() 
+// 18 Show the high column average
+df.select(avg("High")).show()
+// 19 create a list from a collection
+df.filter($"Close" < 480 && $"High" < 480).collectAsList()
+// 20 returns the last day of the date column
+df.select(last_day(df("Date"))).show() 
