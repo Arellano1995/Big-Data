@@ -22,3 +22,6 @@ The fibonacci series was performed using 5 different algorithms in the Scala, th
 
 # Practica 4
 What was done in practice number 4 was to create 20 functions with my codemate, where he performed 10 spark functions and I another 10 functions, once we did what we did was talk to learn about what each one did.
+
+# Practica 5
+The Data Frame CitiGroup 2006_2008 was used to perform a practice of Spark-based functions for the manipulation of the DataFrame and obtaining advanced queries
