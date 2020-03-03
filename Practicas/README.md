@@ -7,6 +7,10 @@ The correlation coefficient can take a range of values ​​from +1 to -1. A va
 -The association must be linear.
 -There should be no outliers in the data.
 -How Pearson's correlation coefficient is calculated
+
+# Investigation 2
+The variance of the random variables, therefore, consists of a measure linked to their dispersion. This is the hope of the square of the deviation of that variable considered against its medium and is measured in a different unit. For example: in cases where the variable measures a distance in kilometers, its variance is expressed in kilometers squared.
+
 # Practica 1
 The following exercises were performed in Scala, these are: Calculate the radius of a circle; Determine if a number is a cousin; Use string interpolation to print a variable; Use slilce to extract a fragment of a string variable; Extract a particular value from a tuple; Answer the question, what is the difference in value and a variable in scala?The following exercises were carried out in Scala, these are: Create a list with three elements; Add 5 items to the previously created list; retrieve 3 items from the list; Create an array of numbers in a range of 1-1000 in steps of 5 in 5; Use conversion to sets to get the unique elements of a list; Create a mutable map with name and ages, and print all its elements.
 
