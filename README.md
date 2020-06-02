@@ -12,7 +12,6 @@
                                                            DOCENTE</br>
                                                 Jose Christian Romero Hernandez</br>
                                                            EQUIPO</br>
-                                             16210958 - Aguirre Ibarra Jesus Armando</br>
                                              16210783 - Castro Arenas Flavio Daniel</br>  
                                              
 
