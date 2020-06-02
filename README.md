@@ -8,7 +8,7 @@
                                                            CARRERA</br>
                                                Ing. En Sistemas Computacionales</br>
                                                           ASIGNATURA</br> 
-                                                Big Data (BDD-1703TI9A)</br>
+                                                          Big Data </br>
                                                            DOCENTE</br>
                                                 Jose Christian Romero Hernandez</br>
                                                            EQUIPO</br>
