@@ -36,6 +36,9 @@
 
 [Practice 8](#id8)
 
+###Link to homeworks 
+https://drive.google.com/drive/folders/1hKKa5Y27c3dtDz4tZNDY8GtektmsYIu5?usp=sharing
+
 ### Practice 1  <a name="id1"></a>
 **Abstract**
 In this practice, what was requested was to complete the missing lines, that is, the comments that were in the code had to be executed or created, we used a csv called ecommerce, where it showed us how long a person lasted in an application
